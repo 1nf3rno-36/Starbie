@@ -4,9 +4,9 @@
 <!-- Generated: 2026-10-10T12:40:59.524Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuvoua1g01lj01o9o2b3x2c0). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy.
+> A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Uses an ESP32 with various sensors. Check repo for more.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
